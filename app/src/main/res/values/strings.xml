@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISSLocation</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1IjoiZHBsIiwiYSI6ImNqaXJsenJlajBwdHMzcW52NzF2Nmw5b3UifQ.KVz_PZ3K7qoWgbp1zsV5mA</string>
+
+    <string name="last_sync_text">Last sync:</string>
+    <string name="there_are_text">There are</string>
+    <string name="people_on_iss">people on ISS</string>
+</resources>
